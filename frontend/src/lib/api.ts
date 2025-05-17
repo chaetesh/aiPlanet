@@ -1,7 +1,7 @@
 // API client for the PDF Q&A backend service
 
 // Base API URL
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = 'https://aiplanet-ncl7.onrender.com';
 
 // Types
 export interface Document {
